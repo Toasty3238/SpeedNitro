@@ -4,22 +4,24 @@
 --
 
 ## Why should i trust SPEEDNITRO?
+
 SPEEDNITRO is the only good nitro generator without a token grabber or malaware
 It is 90% trusted by 60 Anti-Virus engines (https://www.virustotal.com/gui/file/10e9657baa1a4a4f539b25a6b4ab5ac810844f16b6067e3b1422f070c1a8b1dc/detection)
 --
 --
-Why is it better then other options?
+## Why is it better then other options?
+
 SPEEDNITRO Gets frequent updates to improve its use
 SPEEDNITRO Has a updated proxy list and server so it will last
 SPEEDNITRO Can generate Classic/Premium
 It Can be run in the background without any ram/cpu usage
 It is very leight weight with only 1+MB
 The source code can be run on a server
-
 Now its open source!
 
 
 ## How does it work?
+
 Nitroboost works by first generating gift links discord.gift/ and generating a number of numbers and letters at the end
 It will then check the codes by then using 2 methods of link scanning to check the codes
 
