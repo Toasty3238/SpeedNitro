@@ -34,7 +34,9 @@ Please consider donating so i can work on more projects like this.
 - Bitcoin = bc1qj4q6352ypmusyghyyp68q02l8hxvhvnyjnj39j
 - Bitcoin Cash = bitcoincash:qq0344acxvjl9xy0vlftl38awjmg3mhz5qcwsgfsd5
 - Xrdp = rBSPTqYrsSkjCwk8AUfpa3eVYczX4GDGmN
-
+- Dodge Coin = DDZBYK8JdTA2umQnmpSH7n89pfqujdfXg1
+- Ethereum = 0xE343279109A1Bf25f1A888E5B45c55EeD7245174
+- 
 ## Installation
 ```
 ~ Windows 7/8/10 ~
@@ -46,5 +48,3 @@ Please consider donating so i can work on more projects like this.
 1. Run command ( pip3 install -r requirements.txt )
 2. Run command ( python3 SpeedNitro.py )
 ```
-- Dodge Coin = DDZBYK8JdTA2umQnmpSH7n89pfqujdfXg1
-- Ethereum = 0xE343279109A1Bf25f1A888E5B45c55EeD7245174
